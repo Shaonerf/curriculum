@@ -1,7 +1,7 @@
 # Databases
 
 This folder contains lesson markdown files that make up the Databases course. This course exists in the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) path on the Odin Project Website.
-
+   
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
